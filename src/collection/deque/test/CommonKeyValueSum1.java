@@ -2,7 +2,7 @@ package collection.deque.test;
 
 import java.util.*;
 
-public class CommonKeyValueSom1 {
+public class CommonKeyValueSum1 {
 
     public static void main(String[] args) {
 
