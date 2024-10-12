@@ -1,4 +1,4 @@
-package collection.deque.test;
+package collection.test;
 
 import java.util.Map;
 import java.util.Set;

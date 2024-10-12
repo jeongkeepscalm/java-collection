@@ -1,8 +1,8 @@
-package collection.set_java.test;
+package collection.test;
 
 import java.util.*;
 
-public class Test1 {
+public class SetTest {
 
     public static void main(String[] args) {
 

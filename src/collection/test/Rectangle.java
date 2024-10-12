@@ -1,4 +1,4 @@
-package collection.set_java.test;
+package collection.test;
 
 import java.util.Objects;
 

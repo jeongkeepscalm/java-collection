@@ -1,12 +1,13 @@
-package collection.deque.test;
+package collection.test;
 
 import java.util.*;
-
+/*
+    map1, map2에 공통으로 들어있는 키 찾고 그 값의 합을 구하기
+ */
 public class CommonKeyValueSum1 {
 
     public static void main(String[] args) {
 
-        // map1, map2에 공통으로 들어있는 키 찾고 그 값의 합을 구하기
         // map1 생성
         Map<String, Integer> map1 = Map.of("A", 1, "B", 2, "C", 3);
 
