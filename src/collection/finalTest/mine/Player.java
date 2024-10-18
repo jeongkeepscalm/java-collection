@@ -1,8 +1,6 @@
-package collection.finalTest;
+package collection.finalTest.mine;
 
-import java.sql.Array;
 import java.util.ArrayList;
-import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package collection.finalTest;
+package collection.finalTest.mine;
 
 import java.util.*;
 

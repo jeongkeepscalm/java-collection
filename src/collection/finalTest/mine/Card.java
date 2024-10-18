@@ -1,4 +1,4 @@
-package collection.finalTest;
+package collection.finalTest.mine;
 
 public class Card implements Comparable<Card> {
     private int number;
